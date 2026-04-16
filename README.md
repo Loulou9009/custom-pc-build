@@ -1,3 +1,8 @@
+<img width="800" height="1066" alt="1771548094941" src="https://github.com/user-attachments/assets/c275719d-157f-4300-a6b7-ce81eec23c1b" />
+
+
+
+
 # custom-pc-build
 Custom-built PC for IT labs and virtualization
 # Custom PC Build for IT Labs
