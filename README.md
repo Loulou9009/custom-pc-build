@@ -32,10 +32,10 @@ This system is used for:
 
 ## What I Learned
 
-* How to assemble a computer from scratch
-* Understanding hardware compatibility
-* Importance of cooling and power supply
-* Installing and configuring system components
+- Hardware assembly
+- System configuration
+- Component compatibility
+- Troubleshooting hardware issues
 
 ## Future Plans
 
